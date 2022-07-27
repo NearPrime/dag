@@ -1,4 +1,4 @@
-module github.com/heimdalr/dag
+module github.com/nearprime/dag
 
 go 1.12
 
