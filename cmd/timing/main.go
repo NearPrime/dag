@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/heimdalr/dag"
+	"github.com/nearprime/dag"
 	"math"
 	"time"
 )
